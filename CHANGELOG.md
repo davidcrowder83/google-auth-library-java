@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.17.4](https://www.github.com/googleapis/google-auth-library-java/compare/v0.17.3...v0.17.4) (2019-10-02)
+
+
+### Bug Fixes
+
+* make JwtClaims.newBuilder() public ([#350](https://www.github.com/googleapis/google-auth-library-java/issues/350)) ([6ab8758](https://www.github.com/googleapis/google-auth-library-java/commit/6ab8758))
+
 ### [0.17.2](https://www.github.com/googleapis/google-auth-library-java/compare/v0.17.1...v0.17.2) (2019-09-24)
 
 
